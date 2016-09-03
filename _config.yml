@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.1298995
+  lightness: 0.641328
+  brandStrength: 0.9182263
+  brandColors:
+    - '#000000'
+    - '#E0E4ED'
+    - '#7A8DB2'
+    - '#B4BDD0'
+    - '#37486F'
+  rhythmicContrast: 0.1925256
+typography_spectrum: 0.5788531
+name: Stamp Productions
